@@ -1,3 +1,5 @@
+<img src="app/src/main/res/drawable/icon.png" alt="App Icon" width="100" height="100">
+
 # Volume Calculator
 
 An Android app that calculates the volume of a sphere based on the radius input by the user.
@@ -22,4 +24,5 @@ An Android app that calculates the volume of a sphere based on the radius input 
 3. Run the App
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
