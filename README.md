@@ -1,5 +1,3 @@
-<img src="app/src/main/res/drawable/icon.png" alt="App Icon" width="100" height="100">
-
 # Volume Calculator
 
 An Android app that calculates the volume of a sphere based on the radius input by the user.
